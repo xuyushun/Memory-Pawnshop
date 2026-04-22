@@ -73,6 +73,12 @@ A solitary figure in a white coat standing in a narrow rain-soaked alley, seen f
 Negative prompt: cartoon, anime, bright colors, cheerful, daylight, low quality, text, watermark
 ```
 
+**Gemini 提示词（写实风）：**
+
+```
+Photorealistic. A lone man in a white coat, back to camera, stands in a rain-soaked alley at night. He holds a small glowing blue vial. Wet pavement reflects neon signs. Oppressive, cinematic, film noir. No text.
+```
+
 ### 方案二：幽蓝提取液（极简备选）
 
 **Midjourney 提示词：**
@@ -89,6 +95,12 @@ A glass vial filled with luminous blue liquid floating against pure black backgr
 Negative prompt: busy background, text, people, cartoon, low quality, watermark
 ```
 
+**Gemini 提示词（极简产品摄影风）：**
+
+```
+Product photography style. A glass vial of glowing blue liquid on pure black background. One drop of dark red blood falls into it. Minimalist, dramatic inner glow, elegant. No text.
+```
+
 ### 方案三：后颈芯片
 
 **Midjourney 提示词：**
@@ -97,12 +109,38 @@ Negative prompt: busy background, text, people, cartoon, low quality, watermark
 Extreme close-up of the back of a human neck, a small metallic neural interface chip embedded in the skin at the base of the skull, glowing blue liquid seeping from the edges of the implant, raindrops running down the pale skin, cyberpunk body modification aesthetic, shallow depth of field, cold clinical lighting mixed with faint blue glow, dark moody atmosphere, photorealistic skin texture, medical horror meets sci-fi, 3:4 aspect ratio --ar 3:4 --s 750 --style raw --v 6.1
 ```
 
+**Gemini 提示词（漫画插画风）：**
+
+```
+Manga illustration style. Close-up of a human neck from behind, a small metallic chip implanted at the base of the skull. Blue liquid seeps from its edges. Rain runs down pale skin. Dark, moody ink lines, dramatic shading. No text.
+```
+
 ### 方案四：血色支票
 
 **Midjourney 提示词：**
 
 ```
 A blood-stained paper check lying on a wet concrete floor, puddle of rainwater around it reflecting distorted neon lights in blue and red, a blurred dark silhouette of a person reflected in the water surface, cyberpunk noir atmosphere, overhead camera angle looking down, cinematic lighting, the blood on the check has dried to dark brown, moody and threatening, shallow depth of field focused on the check, photorealistic, 3:4 aspect ratio --ar 3:4 --s 750 --style raw --v 6.1
+```
+
+**Gemini 提示词（写实悬疑风）：**
+
+```
+Photorealistic. Top-down view of a blood-stained paper check on wet concrete. Neon light reflections shimmer in the puddle around it. A dark human silhouette reflected in the water. Thriller mood, shallow depth of field. No text.
+```
+
+### 方案五：记忆当铺（漫画封面）
+
+**Gemini 提示词（日式漫画风）：**
+
+```
+Japanese manga cover art style. A young man in a white coat sits alone in a dimly lit pawnshop, shelves lined with glowing blue memory vials. His expression is tired but resolute. Ink lines, dramatic shadow, warm amber lamp glow contrasts cold blue shelves. No text.
+```
+
+**Gemini 提示词（写实风备选）：**
+
+```
+Cinematic realism. Interior of a near-future pawnshop at night. Rows of small glowing blue vials fill the shelves. A young man in a white coat stands with his back to the camera, facing the shelves. Moody amber and blue lighting. No text.
 ```
 
 ### 封面排版
